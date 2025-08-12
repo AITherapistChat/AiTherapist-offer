@@ -41,8 +41,10 @@
 ## 📬 Контакты
 
 Если у вас есть вопросы или предложения:  
-Email: aitherapisthelp@gmail.com
-Telegram: @AI_Therapist_APP
+<ul>
+    <li>Email: <a href="mailto:aitherapisthelp@gmail.com">aitherapisthelp@gmail.com</a></li>
+    <li>Telegram: <a href="https://t.me/AI_Therapist_APP" target="_blank">@AI_Therapist_APP</a></li>
+</ul>
 
 ---
 
